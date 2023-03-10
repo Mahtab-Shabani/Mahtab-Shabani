@@ -3,7 +3,7 @@
 
 **Mahtab Shabani** <br />
 Majored in Artificial Intelligence and Robotic <br />
-A lifelong student who is passionate about learning more and more.<br />
+A lifelong student who is passionate about learning new things.<br />
 
 
 My research interest includes machine learning, image processing, image segmentation, retinal imaging, Medical Image Analysis, and Neuroscience.
