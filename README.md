@@ -2,7 +2,7 @@
 ### 
 
 **Mahtab Shabani** <br />
-majored in artificial intelligence and robotic <br />
+Majored in Artificial Intelligence and Robotic <br />
 A lifelong student who is passionate about learning more and more.<br />
 
 
