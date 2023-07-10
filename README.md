@@ -20,9 +20,6 @@ machine learning, image processing, image segmentation, retinal imaging, Medical
 <a href="https://orcid.org/0000-0002-3200-4773">
   <img align="left" alt="Mahtab Shabani Orcid" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
 </a>
-<a href="https://www.webofscience.com/wos/author/record/GPT-5120-2022">
-  <img align="left" alt="Mahtab Shabani  Web of Science ResearcherID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/thomson.svg" />
-</a>
 <br /><br />
 
 **Featured Publications**
