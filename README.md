@@ -5,7 +5,7 @@
 
 
 **Research Interest:** <br/>
-My research interests lie in machine learning, image processing, image segmentation, retinal imaging, Medical Image Analysis, and Neuroscience.
+My research interests lie in machine learning, image processing, Medical Image Analysis(specially retinal imaging), Deep learning, image enhancement, segmentation, and classification.
 
 
 <a href="https://www.linkedin.com/in/mahtab-shabani/">
