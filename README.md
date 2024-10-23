@@ -23,7 +23,7 @@ My research interests lie in Machine Learning, Image Processing, Medical Image A
 </a>
 <br /><br />
 
-**Featured Publications**
+**Featured Publication**
 - Mahtab Shabani, Hossein Pourghassem, An Active Contour Model Using Matched Filter and Hessian Matrix for Retinal Vessels Segmentation. Turkish Journal of Electrical Engineering and Computer Science, 2022 Jan 19; 30(1): 295-311. [PDF](https://www.researchgate.net/publication/357619455_An_active_contour_model_using_matched_filter_and_Hessian_matrix_for_retinal_vessels_segmentation) / 
 [CODE](https://github.com/Mahtab-Shabani/Retinal-Blood-Vessel-Segmentation-by-Active-Contour)<br />
 
