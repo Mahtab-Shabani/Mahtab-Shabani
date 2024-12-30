@@ -1,7 +1,7 @@
 ###  
 
 **Mahtab Shabani** <br />
-Majored in Artificial Intelligence and Robotic <br />
+Majored in Artificial Intelligence and Robotics <br />
 
 My motto: "I was, am and always will be a student... the day I stop learning, is the day I die."  - Terence Lewis
 
