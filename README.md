@@ -5,9 +5,8 @@ Majored in Artificial Intelligence and Robotics <br />
 
 My motto: "I was, am and always will be a student... the day I stop learning, is the day I die."  - Terence Lewis
 
-**Research Interest:** <br/>
-My research interests lie in Machine Learning, Image Processing, Medical Image Analysis(especially Retinal Imaging), Deep Learning, Image Enhancement, Segmentation, and Classification.
-
+**Research Interests:** <br/>
+My research interests are focused on Machine Learning, Image Processing, Medical Image Analysis (especially Retinal Imaging), Deep Learning, as well as Image Enhancement, Segmentation, and Classification.
 
 <a href="https://www.linkedin.com/in/mahtab-shabani/">
   <img align="left" alt="Mahtab Shabani Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
